@@ -127,7 +127,7 @@ export default class Students extends Component {
                         </div>
                         <div className="row" style={{paddingTop: '1em'}}>
                             <button className="button-primary" style={newStudent} onClick={e => this.saveStudent(e)}>
-                                Update or Save (GitHub 2)
+                                Update or Save (Machine)
                             </button>
                         </div>
                     </form>
