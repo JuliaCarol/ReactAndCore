@@ -131,6 +131,7 @@ export default class Students extends Component {
                                 Update or Save (machine)
                             </button>
 =======
+                                Update or Save (GitHub)
                             </button>s
 >>>>>>> 790cdb769c2c00e7c9a655913f4aad998cffd841
                         </div>
