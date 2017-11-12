@@ -130,6 +130,7 @@ export default class Students extends Component {
 <<<<<<< HEAD
                                 Save or Update
 =======
+                                Update or Save
 >>>>>>> 8764197e6f38212e3e7b990a2b35e8de33318ed5
                             </button>
                         </div>
